@@ -43,6 +43,25 @@ const TEMPLATE_CONFIG = [
       {{moment_copyrighting.DATA}}
       
       {{poetry_title.DATA}} {{poetry_content.DATA}}
+    `，
+    `
+      城市：{{city.DATA}}
+     
+      天气：{{weather.DATA}}
+    
+      气温： {{min_temperature.DATA}}度～{{max_temperature.DATA}}度
+      
+      今天是我们恋爱❤️的第{{love_day.DATA}}天
+      
+      今天是我们结婚🎎的第{{marry_day.DATA}}天
+      
+      提醒：{{wx_birthday_0.DATA}}
+      
+      提醒：{{wx_birthday_1.DATA}}
+      
+      提醒：{{wx_birthday_2.DATA}}
+      
+      提醒：{{wx_birthday_3.DATA}}
     `
   },
   {
