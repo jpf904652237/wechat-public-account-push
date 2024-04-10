@@ -39,6 +39,9 @@ const USER_CONFIG = {
           type: '生日', name: '玛卡巴卡', year: '1993', date: '07-20',
         },
         {
+          type: '生日', name: '兜兜', year: '2024', date: '02-08',
+        },
+        {
           type: '节日', name: '结婚纪念日', year: '2022', date: '12-29',
         },
         {
@@ -73,6 +76,9 @@ const USER_CONFIG = {
         },
         {
           type: '生日', name: '玛卡巴卡', year: '1993', date: '07-20',
+        },
+        {
+          type: '生日', name: '兜兜', year: '2024', date: '02-08',
         },
         {
           type: '节日', name: '结婚纪念日', year: '2022', date: '12-29',
